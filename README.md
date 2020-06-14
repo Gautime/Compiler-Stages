@@ -1,5 +1,5 @@
 # Compiler-Stages
-This is a personal project to implement the stages of a C compiler. I have implemented the first two stages of compiler which are Lexical analysis and Syntax analysis. 
+This is a personal project to implement and learn about the stages of a C compiler. I have implemented the first two stages of compiler which are Lexical analysis and Syntax analysis.  
 
 ## Lexical Analyser
 Lexical analyser is the first step in compilers. The function of this program is to convert the imput code into sequence of tokens. There are many tokens in a C program and each token is either a keyword, an identifier, a constant, a string literal, or a symbol.
